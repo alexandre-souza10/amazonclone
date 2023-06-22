@@ -16,6 +16,7 @@ Gift ou Video:
 - HTML
 - CSS
 - Java Script
+- Visual Studio Code
 
 <br></br>
 
