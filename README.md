@@ -9,7 +9,9 @@
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
 
-Gift ou Video:
+Video:
+
+
 
 <br></br>
 ## Liguagens e ferramentas utilizadas:
