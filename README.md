@@ -8,9 +8,11 @@
 <br></br>
 ## Descrição do projeto:
 Aqui ficara a descrição do meu projeto.
+<br></br>
 
 Video:
 
+https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/30551dc8-547c-4c60-927c-13dfd219c757
 
 
 <br></br>
