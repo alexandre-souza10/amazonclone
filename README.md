@@ -7,7 +7,15 @@
 
 <br></br>
 ## Descrição do projeto:
-Aqui ficara a descrição do meu projeto.
+- Nesse Projeto foi desenvolvido uma pagina de clone da Amazon , um projeto Front-End , utlizando HTML, CSS, Java Script, e a API.themoviedb.org. Na pagina encontramos 
+um design mais avançado, e muito funcional para o seu proposito. Puxando da API todos os filmes ja dinamicamente , e os fazendo ficar visiveis em tela bem estilizados , mas estaticos
+podendo apenas ver a lista de filmes existentes puxados pela API.
+
+- O projeto tem a funcionalidade de ter um catalogo de filmes atualizados do momento, puxados dinamicamente da API , e os deixando estaticos, por ser um projeto apenas Front-End ,
+apenas sendo um catalago de filmes atualizados dinamicamente conforme a API.
+
+- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina Clone da Amazon.
+
 <br></br>
 
 Video:
