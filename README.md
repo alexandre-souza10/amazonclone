@@ -1,6 +1,6 @@
 <h1 align="center"> Clone - Amazon Site </h1>
 
-### Project Homepage: 
+### Project Home Page: 
 ![Screenshot_1](https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/a31e80ab-2ffb-453b-9379-6ecfdd7cccc6)
 
 ### Project access link: https://alexandre-souza10.github.io/amazonclone.github.io/
