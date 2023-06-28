@@ -26,7 +26,7 @@ https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/30551
 
 <br></br>
 
-## Languages ​​and tools used:
+## Languages ​​and Tools used:
 - HTML
 - CSS
 - Java Script
