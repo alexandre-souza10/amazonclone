@@ -1,20 +1,21 @@
-<h1 align="center">Clone - Site Amazon</h1>
+<h1 align="center"> Clone - Amazon Site </h1>
 
-#### Pagina Inicial do Projeto: 
+### Project Homepage: 
 ![Screenshot_1](https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/a31e80ab-2ffb-453b-9379-6ecfdd7cccc6)
 
-### Link de acesso ao Projeto: https://alexandre-souza10.github.io/amazonclone.github.io/
+### Project access link: https://alexandre-souza10.github.io/amazonclone.github.io/
 
 <br></br>
-## Descrição do projeto:
-- Nesse Projeto foi desenvolvido uma pagina de clone da Amazon , um projeto Front-End , utlizando HTML, CSS, Java Script, e a API.themoviedb.org. Na pagina encontramos 
-um design mais avançado, e muito funcional para o seu proposito. Puxando da API todos os filmes ja dinamicamente , e os fazendo ficar visiveis em tela bem estilizados , mas estaticos
-podendo apenas ver a lista de filmes existentes puxados pela API.
 
-- O projeto tem a funcionalidade de ter um catalogo de filmes atualizados do momento, puxados dinamicamente da API , e os deixando estaticos, por ser um projeto apenas Front-End ,
-apenas sendo um catalago de filmes atualizados dinamicamente conforme a API.
+## Project Description:
+- In this Project, an Amazon clone page was developed, a Front-End project, using HTML, CSS, Java Script, and the API.themoviedb.org. On the page we find
+a more advanced design, and very functional for its purpose. Pulling all the movies dynamically from the API , and making them visible on the screen in a well - styled , but static way
+being able to only see the list of existing movies pulled by the API.
 
-- A seguir temos um pequeno video instrucional, onde mostramos um exemplo de como funciona a pagina Clone da Amazon.
+- The project has the functionality of having a catalog of films updated at the moment, pulled dynamically from the API, and leaving them static, as it is a Front-End project only,
+just being a catalog of films dynamically updated according to the API.
+
+- Below we have a small instructional video, where we show an example of how the Amazon Clone page works.
 
 <br></br>
 
@@ -24,7 +25,8 @@ https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/30551
 
 
 <br></br>
-## Liguagens e ferramentas utilizadas:
+
+## Languages ​​and tools used:
 - HTML
 - CSS
 - Java Script
@@ -33,5 +35,5 @@ https://github.com/alexandre-souza10/amazonclone.github.io/assets/74196527/30551
 
 <br></br>
 
-#### Autor: 
+#### Author: 
 **Alexandre Souza**
